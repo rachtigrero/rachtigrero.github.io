@@ -1,2 +1,5 @@
 # rachtigrero.github.io
-the webside for Web Design For Everyone
+
+Introduction:
+
+This is a webside for all web design
